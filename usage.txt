@@ -1,0 +1,2 @@
+(1) ./build
+(2) USAGE => ./file_compressor [filepath]
